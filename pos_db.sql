@@ -1,6 +1,6 @@
 -- Database POS (Point of Sale)
-CREATE DATABASE IF NOT EXISTS pos_db;
-USE pos_db;
+CREATE DATABASE IF NOT EXISTS pos_db_aiven;
+USE pos_db_aiven;
 
 -- Tabel Produk
 CREATE TABLE produk (
