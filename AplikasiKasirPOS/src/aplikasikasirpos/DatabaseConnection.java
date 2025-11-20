@@ -10,7 +10,7 @@ public class DatabaseConnection {
     
     // Konfigurasi Database Docker
     private static final String HOST = "server-sql-1-sql-ku.g.aivencloud.com"; // atau IP Docker host
-    private static final String PORT = "236826";
+    private static final String PORT = "23682";
     private static final String DATABASE = "pos_db_aiven";
     private static final String USERNAME = "avnadmin";
     private static final String PASSWORD = "AVNS_1lD7dbMHa6a_cN162W7";
